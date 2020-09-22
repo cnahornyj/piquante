@@ -1,4 +1,4 @@
-## Piquante
+## Sopekocko
 
 Le projet a été généré avec [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
 
