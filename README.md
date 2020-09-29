@@ -1,6 +1,6 @@
 ## Sopekocko
 
-![flame](https://user-images.githubusercontent.com/50677355/94582129-31d25400-027c-11eb-9f8f-37eeee2eba4b.png)
+![flame](https://user-images.githubusercontent.com/50677355/94582478-91c8fa80-027c-11eb-9ad7-b27da8bd1fec.png)
 
 Le projet a été généré avec [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
 
